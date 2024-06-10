@@ -41,3 +41,4 @@ $ npm start
 ### Donations
 [Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
 # NotesTakingApp
+# NoteTakingApp
